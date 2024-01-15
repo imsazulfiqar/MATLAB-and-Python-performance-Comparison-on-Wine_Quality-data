@@ -8,3 +8,5 @@ hidden neurons and epochs will lead to longer training time and this was true in
 experimentation, it was apparent that adjusting learning rates too drastically had an adverse effect on the model’s performance.
 The final architecture of the model included 7 hidden-layer neurons, sigmoid function as activation function, 250 epochs and a
 learning rate of 0.4. The performance of the 2 implementations are compared in the report.
+
+Link to dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
